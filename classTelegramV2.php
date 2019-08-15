@@ -439,5 +439,5 @@ class TelegramBotV2{
         return $this->Request("getFile", $data);
     }
 
-
+}
 ?>
